@@ -85,7 +85,7 @@ Banking.pptx.pdf	Project presentation summary
 
 🖼️ Dashboard Preview
 
-C:\Users\prash\OneDrive\Pictures\Screenshots
+[C:\Users\prash\OneDrive\Pictures\Screenshots]
 
 
 🧠 Future Enhancements
